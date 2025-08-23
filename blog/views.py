@@ -1,7 +1,7 @@
 from datetime import date
 from django.shortcuts import render
 
-posts = [
+all_posts = [
     {
         "slug": "hike-in-the-mountains",
         "image": "mountains.jpg",
